@@ -1,0 +1,5 @@
+AULA 1 - Introdução ao R e ao RStudio (24/05)
+
+
+Passo a passo de como instalar a linguagem R e o RStudio, que será utilizado durante o curso. 
+Introdução à linguagem, mostrando algumas operações e funções básicas.
